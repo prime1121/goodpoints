@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 90%;
+  height: 90%;
+  font-size: 20px;
+  line-height: 2em;
+  margin: auto;
+}
+.combiner {
+  background-color: #1c1c67;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: xx-small;
+}
+.nav1 {
+  float: left;
+  width: 50%;
+  line-height: 1.5rem;
+  margin-top: 13px;
+  margin-left: 12px;
+  font-size: large;
+}
+.nav2 {
+  float: right;
+  padding-top: 8px;
+  padding-inline-end: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.heading h1 {
+  text-align: center;
+  color: #ecbf4c;
+  font-size: 40px;
+}
+.main1 {
+  float: left;
+  width: 30%;
+}
+.main2 {
+  float: right;
+  width: 60%;
+  line-height: normal;
+  margin-right: 20px;
+  font-size: 11px;
+}
+.footer2 li {
+  margin: 10px;
+}

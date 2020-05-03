@@ -1,0 +1,7 @@
+.popup {
+  box-sizing: border-box;
+  background-color: coral;
+  width: 60%;
+  border: 1px solid black;
+  padding: 10px;
+}
